@@ -3,7 +3,6 @@
 **Student:** Justine | **ALU BSE — Machine Learning Operations**
 
 A Demo Video : https://www.loom.com/share/6e793e34688a490abcec2042f664325d
-
 ---
 
 ## Live Demo
